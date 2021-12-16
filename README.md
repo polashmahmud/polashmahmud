@@ -2,7 +2,7 @@
 <h3 align="center">A software developer from Bangladesh</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/polashmahmud4">Linkedin</a> •
-  <a href="https://www.facebook.com/polashmahmud4">Facebook</a>
+  <a href="https://www.facebook.com/polashmahmud4">Facebook</a> •
   <a href="https://twitter.com/polashmahmud">Twitter</a>
 </p>
 
